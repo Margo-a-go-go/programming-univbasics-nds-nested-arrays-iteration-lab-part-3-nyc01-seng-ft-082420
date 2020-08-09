@@ -11,5 +11,5 @@ row_index = 0
     end
     row_index += 1
   end
-  final_string
+  result = final_string
 end
